@@ -1,0 +1,30 @@
+body {
+    margin: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif
+}
+.avatar {
+    width: 150px;
+    border-radius: 4px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+}
+
+.card {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #E2FCEF;
+    color: #4B4237;
+    border-bottom: 10px solid #D5A021;
+    border-left: 10px solid #D5A021;
+    border-radius: 4px;   
+}
+
+
+.border-blue {
+    border: 1px dotted blue;
+}
+
